@@ -1,4 +1,4 @@
-# About This GraphQL Demo 🌐
+# About This GraphQL Demo ✨
 
 A basic GraphQL API using Flask and Graphene. This API returns the title, image, description etc. from web pages.
 
