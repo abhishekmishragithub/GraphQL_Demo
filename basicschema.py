@@ -10,7 +10,7 @@ def extractdata(url):
 
 
 class Website(graphene.ObjectType):
-    url = graphene.String(required=True, description="simple website url")
+    url = graphene.String(required=True, description="simple web page url")
     title = graphene.String()
     description = graphene.String()
     image = graphene.String()
