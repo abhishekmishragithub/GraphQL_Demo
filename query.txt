@@ -1,0 +1,7 @@
+{
+  website(url: "https://in.pycon.org") {
+    title
+    image
+    description
+  }
+}
