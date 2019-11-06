@@ -1,0 +1,20 @@
+# Framework for making API/application 
+#--------------------------------------------------------------
+Flask==1.1.1
+
+# GraphQL support to your Flask application.
+#--------------------------------------------------------------
+Flask-GraphQL==2.0.0
+
+
+# Library for building GraphQL schemas/types fast and easily
+#--------------------------------------------------------------
+graphene==2.1.8
+
+# For extracting titles, descriptions etc urls from web pages
+#--------------------------------------------------------------
+extraction==0.3
+
+# HTTP library 
+#--------------------------------------------------------------
+requests==2.22.0
