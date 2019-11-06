@@ -1,0 +1,15 @@
+schema {
+  query: Query
+}
+
+type Query {
+  website(url: String): Website
+}
+
+type Website {
+  url: String!
+  title: String
+  description: String
+  image: String
+  feed: String
+}
