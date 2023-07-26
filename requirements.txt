@@ -1,6 +1,6 @@
 # Framework for making API/application 
 #--------------------------------------------------------------
-Flask==1.1.1
+Flask==2.3.2
 
 # GraphQL support to your Flask application.
 #--------------------------------------------------------------
